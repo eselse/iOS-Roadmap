@@ -11,7 +11,7 @@ https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
 - Playground
   - [Learn to code with Swift Playgrounds](https://developer.apple.com/swift-playgrounds/)
 - Swift
-  - Documentation: [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)
+  - Official Documentation: [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)
 - Code Style Convention
   - [Google Style Guide](https://google.github.io/swift/)
   - [Kodeco Style Guide](https://github.com/kodecocodes/swift-style-guide)
@@ -21,6 +21,8 @@ https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
   - [Sean Allen's video about Delegate pattern](https://www.youtube.com/watch?v=qiOKO8ta1n4)
   - [Sean Allen's video about Singleton pattern](https://www.youtube.com/watch?v=3OMz0LgapFM)
 - Git
+  - [Git Merge vs Git Rebase Video](https://www.youtube.com/watch?v=DiGkq_oobYk)
+  - [Git clone, push, pull, fetch](https://www.youtube.com/watch?v=DiGkq_oobYk)
   - Official Free Book [Pro Git](https://git-scm.com/book/en/v2)
 
 ## First App
@@ -29,6 +31,7 @@ https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
   - [Official Apple SwiftUI tutorial](https://developer.apple.com/tutorials/swiftui)
 - Xcode
 - Functional Programming
+  - [Sean Allen's videos about higher order functions](https://www.youtube.com/watch?v=-mx_Kf3qKJY)
 - [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines)
   
 ## Step 3
