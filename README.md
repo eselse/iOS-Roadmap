@@ -22,7 +22,7 @@ https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
   - [Sean Allen's video about Singleton pattern](https://www.youtube.com/watch?v=3OMz0LgapFM)
 - Git
   - [Git Merge vs Git Rebase Video](https://www.youtube.com/watch?v=CRlGDDprdOQ)
-  - [Git clone, push, pull, fetch](https://www.youtube.com/watch?v=DiGkq_oobYk)
+  - [Git pull vs. fetch](https://www.youtube.com/watch?v=GOrhB6eYASU)
   - Official Free Book [Pro Git](https://git-scm.com/book/en/v2)
 
 ## First App
