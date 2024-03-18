@@ -13,8 +13,13 @@ https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
 - Swift
   - Documentation: [The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)
 - Code Style Convention
+  - [Google Style Guide](https://google.github.io/swift/)
+  - [Kodeco Style Guide](https://github.com/kodecocodes/swift-style-guide)
 - OOP Basics
+  - [Youtube Video about OOP in Swift RU](https://www.youtube.com/watch?v=XFHOZa7Fr3M)
 - Patterns
+  - [Sean Allen's video about Delegate pattern](https://www.youtube.com/watch?v=qiOKO8ta1n4)
+  - [Sean Allen's video about Singleton pattern](https://www.youtube.com/watch?v=3OMz0LgapFM)
 - Git
   - Official Free Book [Pro Git](https://git-scm.com/book/en/v2)
 
