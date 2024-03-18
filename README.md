@@ -6,7 +6,7 @@ Source Link
 https://miro.com/app/board/uXjVMPVvQ1U=/?share_link_id=516697064475
 
 ---
-
+## [First Playlist](https://www.youtube.com/watch?v=XFHOZa7Fr3M&list=PL6ZiiwR0cAz6zkjJyJLmc928zHUtgABuw)
 ## Base
 - Playground
   - [Learn to code with Swift Playgrounds](https://developer.apple.com/swift-playgrounds/)
